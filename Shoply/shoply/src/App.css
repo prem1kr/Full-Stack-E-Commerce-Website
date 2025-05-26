@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+.MuiListItemText-root .css-10hburv-MuiTypography-root{
+  font-family: "Jost", sans-serif;
+}
+
+.css-q8hpuo-MuiFormControl-root .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root{
+  border-radius: 0;
+}
+
+/* 
+::-webkit-scrollbar-button{
+  background-color: red;
+}
+::-webkit-scrollbar-thumb{
+  width: 5px;
+} */
+/* 
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif; */

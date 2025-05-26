@@ -1,0 +1,40 @@
+/* Dashboard */
+/* Appbar */
+.css-o5srbh-MuiPaper-root-MuiAppBar-root{
+    top:auto!important;
+    background-color: rgb(176, 142, 173)!important;
+    margin-top: 10px;
+    z-index: 9999!important;
+    padding-left: 20px;
+}
+.css-n7rtur-MuiPaper-root-MuiAppBar-root{
+    top:auto!important;
+    background-color: rgb(176, 142, 173)!important;
+    margin-top: 10px;
+    z-index: 1!important;
+}
+
+/* sidebar */
+.css-aq1gdx-MuiDrawer-docked{
+    margin-top: 9px!important;
+}
+.css-cvumne-MuiDrawer-docked{
+    margin-top: 9px!important;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+    min-height: 100vh;
+    
+}
+@media (min-width: 600px){
+    .css-aq1gdx-MuiDrawer-docked .MuiDrawer-paper {
+        width: 90px!important;
+    }
+}
+.css-aq1gdx-MuiDrawer-docked .MuiDrawer-paper {
+    width: 90px!important;
+}
+/* navbar */
+.css-h4y409-MuiList-root{
+    padding-left: 20px!important;
+}
